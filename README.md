@@ -32,4 +32,4 @@
 
 - The game announces a win or draw
 
-Click Reset to play again
+- Click Reset to play again
