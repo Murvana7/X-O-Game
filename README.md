@@ -24,12 +24,12 @@
 
 ▶️ How to Play
 
-Open the game in your browser
+- Open the game in your browser
 
-Player X starts the game
+- Player X starts the game
 
-Take turns placing marks on the grid
+- Take turns placing marks on the grid
 
-The game announces a win or draw
+- The game announces a win or draw
 
 Click Reset to play again
